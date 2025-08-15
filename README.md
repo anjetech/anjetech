@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**anjetech/anjetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anje, a software engineering student with a passion for frontend development and web design.
 
-Here are some ideas to get you started:
+I love transforming ideas into beautiful, functional applications—whether it's crafting sleek interfaces, playing with fonts and styles, or refining user experiences that just *feel right*. My work blends creativity with precision, and I thrive on turning concepts into code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, you'll probably find me curled up with a good book or brainstorming the next big project. I also enjoy collaborating on group assignments, especially when it involves clean documentation and impactful design.
+
+### 🎨 What I Enjoy:
+- Frontend development with a focus on styling and usability.
+- Building dynamic web apps.
+
+### 🤓 Fun Facts:
+- I don’t like coffee or tea (yes, really!)
+- Reading is my go-to escape
+---
