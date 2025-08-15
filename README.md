@@ -8,3 +8,4 @@ Outside of code and styling, you’ll find me reading novels, exploring new tech
 
 ### Fun Facts:
 - I don’t like coffee or tea.
+- I like watch a tv show as background noice while working.
