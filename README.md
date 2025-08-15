@@ -1,4 +1,5 @@
-Hi there! 👋 
+## Hi there! 👋 
+
 I’m Anje, a software engineering student based in South Africa.
 
 I love turning creative ideas into stylish, functional web applications that feel intuitive and look amazing. Fonts, colors, and layout are my playground—and I’m all about crafting interfaces that users actually enjoy.
