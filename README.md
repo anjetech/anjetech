@@ -1,6 +1,6 @@
 ## Hi there! 👋 
 
-I’m Anje, a software engineering based in South Africa.
+I’m Anje, a Software Engineer based in South Africa.
 
 I love turning creative ideas into stylish, functional web applications that feel intuitive and look amazing. Fonts, colors, and layout are my playground—and I’m all about crafting interfaces that users actually enjoy.
 
@@ -8,4 +8,4 @@ Outside of code and styling, you’ll find me reading novels, exploring new tech
 
 ### Fun Facts:
 - I don’t like coffee or tea.
-- I like watch a tv show as background noice while working.
+- I like to watch tv show as background noice while working.
