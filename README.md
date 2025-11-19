@@ -8,4 +8,4 @@ Outside of code and styling, you’ll find me reading novels, exploring new tech
 
 ### Fun Facts:
 - I don’t like coffee or tea.
-- I like to watch tv show as background noice while working.
+- I like to watch tv shows as background noice while working.
